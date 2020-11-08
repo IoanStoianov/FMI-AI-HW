@@ -1,0 +1,15 @@
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\obj\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.csprojAssemblyReference.cache
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\obj\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.AssemblyInfoInputs.cache
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\obj\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.AssemblyInfo.cs
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\obj\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.csproj.CoreCompileInputs.cache
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\bin\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.exe
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\bin\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.deps.json
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\bin\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.runtimeconfig.json
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\bin\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.runtimeconfig.dev.json
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\bin\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.dll
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\bin\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.pdb
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\bin\Debug\netcoreapp3.1\C5.dll
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\obj\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.csproj.CopyComplete
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\obj\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.dll
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\obj\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.pdb
+C:\Users\ioan6\source\repos\ArtificialIntelligenceHW1\ArtificialIntelligenceHW1\obj\Debug\netcoreapp3.1\ArtificialIntelligenceHW1.genruntimeconfig.cache
