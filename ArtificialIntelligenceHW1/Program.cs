@@ -66,7 +66,7 @@ namespace ArtificialIntelligenceHW1
 
 		public static Tuple<int, int>[] CalculateManhatanTable(int size, int zeroPosition)
 		{
-			var table = new Tuple<int, int>[size*size];
+			var table = new Tuple<int, int>[size*size+1];
 			int x = 1;
 			for (int i = 0; i < size; i++)
 			{

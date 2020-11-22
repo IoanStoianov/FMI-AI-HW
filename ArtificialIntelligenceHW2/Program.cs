@@ -3,20 +3,28 @@ using System.Collections.Generic;
 
 namespace ArtificialInteligenceHW2
 {
+	//FN 81596
+	//Йоан Стоянов
+
 	class Program
 	{
 		public static int K = 5;
 		static void Main(string[] args)
 		{
-			int N = 10001;
-			var queens = new Queens(N);
+			Console.WriteLine("Enter a number:");
+			int N = Int32.Parse(Console.ReadLine());
 			var watch = new System.Diagnostics.Stopwatch();
-			
+			watch.Start();
+			var queens = new Queens(N);
+			Console.WriteLine($"Init Time: {watch.ElapsedMilliseconds} ms");
+			watch.Stop();
+			watch.Reset();
+
 			watch.Start();
 			while (!Search(queens, N));
 			watch.Stop();
 
-			Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds} ms");
+			Console.WriteLine($"Search Time: {watch.ElapsedMilliseconds} ms");
 
 			if (N <= 50) queens.PrintQueens();
 			Console.WriteLine("Done");

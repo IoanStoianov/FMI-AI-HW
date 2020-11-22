@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtificialIntelligenceHW1", "ArtificialIntelligenceHW1\ArtificialIntelligenceHW1.csproj", "{BD5CB22B-CFDD-4D5F-A545-11A50C730F4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialInteligenceHW2", "ArtificialInteligenceHW2\ArtificialInteligenceHW2.csproj", "{0A663D17-9BC5-4430-8029-007AFF38371D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtificialIntelligenceHW2", "ArtificialIntelligenceHW2\ArtificialIntelligenceHW2.csproj", "{0A663D17-9BC5-4430-8029-007AFF38371D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialIntelligenceHW3", "ArtificialIntelligenceHW3\ArtificialIntelligenceHW3.csproj", "{2014730D-AB47-4949-968B-9885C7124862}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0A663D17-9BC5-4430-8029-007AFF38371D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A663D17-9BC5-4430-8029-007AFF38371D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A663D17-9BC5-4430-8029-007AFF38371D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2014730D-AB47-4949-968B-9885C7124862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2014730D-AB47-4949-968B-9885C7124862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2014730D-AB47-4949-968B-9885C7124862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2014730D-AB47-4949-968B-9885C7124862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
