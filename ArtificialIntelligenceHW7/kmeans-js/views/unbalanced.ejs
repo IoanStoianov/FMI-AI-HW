@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <script>
+        let data = JSON.parse('<%-name%>');
+        // console.log(JSON.parse(name));
+        var colors = ["#dd2c00", "#dd2c00", "#ff6d00", "#ff6d00", "#304ffe", "#304ffe", "#ffd600", "#ffd600", "#aeea00", "#aeea00", "#64dd17", "#64dd17", "#4fc3f7", "#4fc3f7", "#6200ea", "#6200ea", "#ffab00", "#ffab00", "#00b8d4", "#00b8d4", ]
+        let mappedData = data.map((x, index) => {
+            return {
+                markerType: index % 2 == 0 ? "cross" : "circle",
+                markerSize: index % 2 == 0 ? 20 : 10,
+                color: colors[index],
+                type: "scatter",
+                name: "" + x.length,
+                showInLegend: index % 2 == 0 ? false : true,
+                dataPoints: x
+            }
+        })
+        var epsolon = 3;
+        window.onload = function() {
+            CanvasJS.addColorSet("material", colors);
+            var chart = new CanvasJS.Chart("chartContainer", {
+                // colorSet: "material",
+                animationEnabled: true,
+                title: {
+                    text: "Unbalanced"
+                },
+                data: mappedData
+            });
+            chart.render();
+
+        }
+    </script>
+</head>
+
+<body>
+    <div id="chartContainer" style="height: 900px; width: 900px"></div>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+</body>
+
+</html>
